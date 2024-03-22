@@ -1,0 +1,4 @@
+dash
+mypy
+numpy
+plotly
