@@ -19,5 +19,5 @@ clean:
 
 init: env install
 
-.PHONY: env install init clean
+.PHONY: env install init clean run
 
