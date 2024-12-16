@@ -1,6 +1,6 @@
 ## Installation
 
-You need at least python 3.8+ (a lot of walruses :=).
+You need at least python 3.10+.
 
 You need to have make and python installed, e.g.:
 
